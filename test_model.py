@@ -1,5 +1,4 @@
 #-*-coding:utf8-*-
-__author__ = '万壑'
 
 from read_data import read_name_list,read_file
 from train_model import Model
